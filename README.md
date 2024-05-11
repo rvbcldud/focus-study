@@ -5,7 +5,7 @@ A collection of FOCUS Bible studies in booklet format.
 
 The following FOCUS Bible Studies have been converted into booklet form:
 - [The Crux](the-crux)
-- [Salvation History](salvation-hist)
+- [Salvation History](salvation-history)
 - [Catholic Social Teaching](catholic-social-teaching)
 
 ## Scripts
