@@ -4,9 +4,9 @@ A collection of FOCUS Bible studies in booklet format.
 ## Bible Studies
 
 The following FOCUS Bible Studies have been converted into booklet form:
-- [The Crux](the-crux)
-- [Salvation History](salvation-history)
-- [Catholic Social Teaching](catholic-social-teaching)
+- [The Crux](the-crux) ([Click Here to Download](https://github.com/rvbcldud/focus-study/releases/download/v1.0.0/the-crux.zip))
+- [Salvation History](salvation-history) ([Click Here to Download](https://github.com/rvbcldud/focus-study/releases/download/v1.0.0/salvation-history.zip))
+- [Catholic Social Teaching](catholic-social-teaching) ([Click Here to Download](https://github.com/rvbcldud/focus-study/releases/download/v1.0.0/catholic-social-teaching.zip))
 
 ## Scripts
 
